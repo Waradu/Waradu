@@ -12,8 +12,7 @@
 <a href="https://dev.to/waradu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="waradu" height="30" width="40" /></a>
 <a href="https://twitter.com/warrradu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warrradu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17036260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17036260" height="30" width="40" /></a>
-<a href="https://fb.com/waradu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waradu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/waradu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="waradu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@waradu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="waradu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
