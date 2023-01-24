@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Waradu</h1>
-<h3 align="center">Application developer and Gamer</h3>
+# Hello traveller 👋
+### You found my profile, congratulations.
+I am Noan aka. Waradu, a Gamer and Developer.
 
-- 🔭 I’m currently working on [iGetMusic](https://github.com/Waradu/iGetMusic)
+🔭 I’m currently working on [iGetMusic](https://github.com/Waradu/iGetMusic)
 
-- 👨‍💻 All of my projects are available at [https://waradu.tk](https://waradu.tk)
+👨‍💻 All of my projects are available at [https://waradu.tk](https://waradu.tk)
 
-- 📫 How to reach me **waradu@outlook.com**
+📫 How to reach me **waradu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
