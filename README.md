@@ -4,7 +4,7 @@
 #waradu { <br>
 ‎ ‎ content: "Noan" <br>
 ‎ ‎ position: swiss; <br>
-‎ ‎ font-size: 16; <br>
+‎ ‎ font-size: 17; <br>
 ‎ ‎ color: white; <br>
 }
 </samp>
