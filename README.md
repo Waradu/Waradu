@@ -10,5 +10,5 @@
 </samp>
 <br><br>
 <div align="left">
-Full-stack developer and founder of <a href="https://github.com/vleerapp">@Vleerapp</a>, Also i'm currently with the <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a>, where we're creating <a href="https://github.com/MergedGames">@MergedGames</a>.<br>Go to the <a href="https://waradu.dev/projects">project page</a> in my <a href="https://waradu.dev">portfolio</a> to check out my awesome projects.
+Full-stack developer and founder of <a href="https://github.com/vleerapp">@Vleerapp</a>, Also i'm currently with the <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a>, where we're creating <a href="https://github.com/MergedGames">@MergedGames</a>.<br>Go to the <a href="https://waradu.dev/projects">project page</a> in my <a href="https://waradu.dev">portfolio</a> to check out my projects.
 </div>
