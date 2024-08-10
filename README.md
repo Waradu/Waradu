@@ -2,7 +2,6 @@
 #waradu { <br>
 ‎ ‎ position: swiss; <br>
 ‎ ‎ font-size: 17; <br>
-‎ ‎ color: white; <br>
 }
 </samp>
 <br><br>
