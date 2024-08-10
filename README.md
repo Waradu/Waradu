@@ -1,5 +1,3 @@
-![image](https://github.com/Waradu/Waradu/assets/89935135/1eb4f64b-6d4b-415c-ad90-fa14e1182f08)
-
 <samp>
 #waradu { <br>
 ‎ ‎ position: swiss; <br>
